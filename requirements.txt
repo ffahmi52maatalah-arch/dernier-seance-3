@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langgraph
+langserve[server]
+fastapi
+uvicorn
+gradio
+requests
+google-search-results
